@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @florianmiedema
-- 👀 MSc Data Science & MSc Finance
+- 👨‍🎓 MSc Data Science & MSc Finance
+- 💻 Python, R, Power BI, Stata, SPSS
 - 📫 You can reach me at florianmiedema@hotmail.com
 
 <!---
